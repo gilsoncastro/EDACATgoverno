@@ -1,0 +1,2 @@
+# EDACATgoverno
+Um laborátório de inovação em segurança ocupacional de uma grande empresa pretende fazer um estudo sobre os acidentes de trabalho no Brasil tendo como objetivo desenvolver serviços e produtos para amenizar o problema . Para realizar a análise , contratou um analista de dados ( especialista em economia do trabalho , este mesmo decidiu realizar uma análise explorátória de dados com o objetivo de obter alguns insights , testar algumas hipóteses em torno da base de dados fornecida pelo laborátorio.
